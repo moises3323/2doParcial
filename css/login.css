@@ -1,0 +1,9 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+.boxlogin{
+    border-radius: 4px;
+    margin: 100px auto;
+    width: 320px;
+}
